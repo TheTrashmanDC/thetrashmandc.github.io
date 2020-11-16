@@ -1,0 +1,17 @@
+
+title: TheTrashman.com - Your internet waste and refuse disposal experts
+email: info@thetrashman.com
+description: >- # this means to ignore newlines until "baseurl:"
+  TheTrashman.com is for sale, maybe.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://thetrashman.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: christoc
+github_username:  chrishammond
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
