@@ -11,16 +11,18 @@ If you are interested in purchasing the domain fill out the contact form on this
 
 Low ball offers, and inquiries without an offer, will not be responded to.
  
-# Login To Your Account
+## Login To Your Account
 
 Trying to login to pay your trash bill? You've got the wrong site people. This is not your trash service. 
 
-# Fortnite
+## Fortnite
 
-If you're here because of Fortnite, you can read more about the player TheTrashman.com here.
-Site Usage
+If you're here because of Fortnite... Best of luck to you.
 
-# Potential uses for this Domain
+
+## Site Usage
+
+## Potential uses for this Domain
 
     Small Business Website
     Large Business Website
@@ -28,7 +30,7 @@ Site Usage
     Comedian Website
     Much much more!
 
-# Small Business Ideas
+## Small Business Ideas
 
     Junk Recycling Business
     Commercial Trash Services
@@ -38,7 +40,7 @@ Site Usage
     Domain Listing and Retail Services
     Domain Collection and Recycle Services
 
-# Large Business Ideas
+## Large Business Ideas
 
     Large Hawaii Based Trash Company
     Junk Recycling Business
