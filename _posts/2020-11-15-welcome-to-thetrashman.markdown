@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to TheTrashman.com!"
 date:   2020-11-15 23:35:36 -0600
-categories: domain name
+categories: 
 ---
 
 You've found a great domain that is for sale. If you have a trash or refuse business, or any other type of business this domain might be perfect for you.
