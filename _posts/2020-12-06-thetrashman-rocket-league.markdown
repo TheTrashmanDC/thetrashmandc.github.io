@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Trashman.com in Rocket League!"
+title:  "TheTrashman.com in Rocket League!"
 date:   2020-12-06 08:02:36 -0600
 categories: 
 ---
