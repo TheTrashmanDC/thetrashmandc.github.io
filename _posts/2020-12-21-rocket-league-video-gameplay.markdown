@@ -5,4 +5,4 @@ date:   2020-12-21 13:00:00 -0600
 categories: 
 ---
 
-[https://www.youtube.com/watch?v=dQw4w9WgXcQ](The latest replay video from TheTrashman.com Rocket League)
+[The latest replay video from TheTrashman.com Rocket League](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
