@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://thetrashman.com/2020/11/16/welcome-to-thetrashman.html</loc>
+<loc>/welcome-to-thetrashman-com</loc>
 <lastmod>2020-11-16T05:35:36+00:00</lastmod>
 </url>
 <url>
-<loc>https://thetrashman.com/2020/12/06/thetrashman-rocket-league.html</loc>
+<loc>/thetrashman-com-in-rocket-league</loc>
 <lastmod>2020-12-06T14:02:36+00:00</lastmod>
 </url>
 <url>
-<loc>https://thetrashman.com/2020/12/21/rocket-league-video-gameplay.html</loc>
+<loc>/thetrashman-video-replay</loc>
 <lastmod>2020-12-21T19:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://thetrashman.com/about/</loc>
+<loc>/about/</loc>
 </url>
 <url>
-<loc>https://thetrashman.com/</loc>
+<loc>/</loc>
 </url>
 </urlset>
