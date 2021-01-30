@@ -8,7 +8,7 @@ const date = `${dateObj.getFullYear()}-${padStart(
   dateObj.getMonth() + 1
 )}-${padStart(dateObj.getDate())}`;
 const banner = `/*!
- * Another website by Christoc.com
+ * Why are you here? 
  */
 `;
 
