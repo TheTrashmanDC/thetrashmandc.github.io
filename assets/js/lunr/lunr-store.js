@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "/thetrashman-video-replay",
         "teaser": null
+      },{
+        "title": "TheTrashman.com is no more, long live TheTrashman.com",
+        "excerpt":"Last night while playing Fortnite I received an email from Epic announcing that they had initiated a username change for my account, either because I had requested it, or I was found in violation of their username policies. After thoroughly checking the validity of the email, to ensure it wasn’t...","categories": [],
+        "tags": [],
+        "url": "/thetrashman-is-no-more",
+        "teaser": null
       }]
