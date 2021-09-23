@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "/thetrashman-is-no-more",
         "teaser": null
+      },{
+        "title": "TheTrashman.com crashing you in a simulation race, or real race, near you",
+        "excerpt":"TheTrashman is back in Sim Racing, look out. Terrorizing drivers in iRacing, ACC and various other platforms.   Long crash the TheTrashman.com  ","categories": [],
+        "tags": [],
+        "url": "/thetrashman-simulation-racing",
+        "teaser": null
       }]
