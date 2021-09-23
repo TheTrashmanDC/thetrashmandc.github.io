@@ -1,5 +1,13 @@
 source "https://rubygems.org"
-gemspec
+
+# Hello! This is where you manage which Jekyll version is used to run.
+# When you want to use a different version, change it below, save the
+# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+#
+#     bundle exec jekyll serve
+#
+
+# If you have any plugins, put them here!
 
 
 gem "jekyll", "~> 4"
@@ -13,7 +21,6 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     # gem 'kramdown'
     # gem 'rouge'
-    # gem 'jekyll_picture_tag'
+    gem 'jekyll_picture_tag'
     gem 'jekyll-redirect-from'
-    gem 'jekyll-include-cache'
 end
