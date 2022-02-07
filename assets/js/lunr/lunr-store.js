@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/thetrashman-simulation-racing",
         "teaser": null
+      },{
+        "title": "Fortnite Milestone Addiction",
+        "excerpt":"I am addicted to completing Fortnite Milestones.   Except for that stupid ride 5k meters ON a vehicle, that’s stupid.  ","categories": [],
+        "tags": [],
+        "url": "/fortnite-milestone-addiction",
+        "teaser": null
       }]
