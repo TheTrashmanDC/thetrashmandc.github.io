@@ -34,4 +34,10 @@ var store = [{
         "tags": [],
         "url": "/fortnite-milestone-addiction",
         "teaser": null
+      },{
+        "title": "Fortnite Updates",
+        "excerpt":"What’s in the latest release of Fortnite?   Guns in Chickens…..  ","categories": [],
+        "tags": [],
+        "url": "/fortnite-updates",
+        "teaser": null
       }]

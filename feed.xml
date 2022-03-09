@@ -5,9 +5,22 @@
     <description>You got trashed!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Feb 2022 05:41:47 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Feb 2022 05:41:47 +0000</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Wed, 09 Mar 2022 21:16:26 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Mar 2022 21:16:26 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Fortnite Updates</title>
+        <description>&lt;p&gt;What’s in the latest release of Fortnite?&lt;/p&gt;
+
+&lt;p&gt;Guns in Chickens…..&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Mar 2022 19:00:00 +0000</pubDate>
+        <link>/fortnite-updates</link>
+        <guid isPermaLink="true">/fortnite-updates</guid>
+        
+        
+      </item>
     
       <item>
         <title>Fortnite Milestone Addiction</title>
