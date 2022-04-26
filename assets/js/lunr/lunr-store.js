@@ -40,4 +40,16 @@ var store = [{
         "tags": [],
         "url": "/fortnite-updates",
         "teaser": null
+      },{
+        "title": "FORTNITE SECRET KLOMBO QUEST",
+        "excerpt":"One quest you won’t find in your quest log in Fortnite is a Secret Klombo question.   You basically need to find 3 blow holes in snow mounds. They are all up near the covered bridge, so get searching.   ","categories": [],
+        "tags": [],
+        "url": "/fortnite-klombo-quest",
+        "teaser": null
+      },{
+        "title": "Robbie.com killed TheTrashman.com",
+        "excerpt":"Robbie.com killed TheTrashman.com   -Fortnite  ","categories": [],
+        "tags": [],
+        "url": "/robbie-dot-com",
+        "teaser": null
       }]
