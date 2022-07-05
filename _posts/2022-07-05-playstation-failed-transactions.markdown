@@ -15,5 +15,5 @@ TM has reached out to Playstation multiple times to try to get transactions to g
 
 Sure enough, both attempted transactions went through fine on the Console.
 
-So if you're struggling to try to purchase any games, or add funs, to your Playstation account, try it on the console instead of on the web. Why would you ever expect the web to work? (FYI Playstation's website sucks)
+So if you're struggling to try to purchase any games, or add funds, to your Playstation account, try it on the console instead of on the web. Why would you ever expect the web to work? (FYI Playstation's website sucks)
 
