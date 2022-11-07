@@ -6,7 +6,7 @@ categories:
 permalink: fortnite-milestone-addiction
 excerpt: "I have a problem."
 image: 
-featured: true
+featured: false
 ---
 
 I am addicted to completing Fortnite Milestones.

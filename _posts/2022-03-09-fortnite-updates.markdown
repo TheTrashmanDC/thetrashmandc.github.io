@@ -6,7 +6,7 @@ categories:
 permalink: fortnite-updates
 excerpt: "What's in the latest release?"
 image: 
-featured: true
+featured: false
 ---
 
 What's in the latest release of Fortnite?
