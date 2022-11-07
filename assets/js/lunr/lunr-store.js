@@ -58,4 +58,10 @@ var store = [{
         "tags": [],
         "url": "/playstation-fraud-transactions",
         "teaser": null
+      },{
+        "title": "Fortnite Glitch, get launched into orbit by a shark",
+        "excerpt":"While playing with the buddies tonight, TheTrashman got booted from the middle of the map all the way out to the edge, ultimately dying in the storm, due to a glitch. Apparently sharks have the ability to launch you into orbit when grabbing on to a vehicle… View this post...","categories": [],
+        "tags": [],
+        "url": "/fortnite-glitch-shark-launch",
+        "teaser": null
       }]
