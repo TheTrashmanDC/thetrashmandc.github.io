@@ -64,4 +64,10 @@ var store = [{
         "tags": [],
         "url": "/fortnite-glitch-shark-launch",
         "teaser": null
+      },{
+        "title": "I ain't no smurf",
+        "excerpt":"Screw you Kevin, I ain’t no smurf. You’re just that bad.  ","categories": [],
+        "tags": [],
+        "url": "/rocket-league-smurf",
+        "teaser": null
       }]

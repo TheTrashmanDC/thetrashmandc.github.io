@@ -5,9 +5,20 @@
     <description>You got trashed!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2022 05:04:14 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2022 05:04:14 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Dec 2022 05:54:12 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2022 05:54:12 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>I ain't no smurf</title>
+        <description>&lt;p&gt;Screw you Kevin, I ain’t no smurf. You’re just that bad.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Dec 2022 04:00:00 +0000</pubDate>
+        <link>/rocket-league-smurf</link>
+        <guid isPermaLink="true">/rocket-league-smurf</guid>
+        
+        
+      </item>
     
       <item>
         <title>Fortnite Glitch, get launched into orbit by a shark</title>
@@ -138,21 +149,6 @@
         <pubDate>Mon, 21 Dec 2020 19:00:00 +0000</pubDate>
         <link>/thetrashman-video-replay</link>
         <guid isPermaLink="true">/thetrashman-video-replay</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>TheTrashman.com in Rocket League!</title>
-        <description>&lt;p&gt;TheTrashman.com is a proud sponsor of Chris Hammond’s eSports gaming efforts. You can currently find him playing in competitive Rocket League Matches.&lt;/p&gt;
-
-&lt;p&gt;You can also find him playing Solo/Duals/Trios/Squads in Fortnite.&lt;/p&gt;
-
-&lt;p&gt;Did you get beat by TheTrashman.com? Did you beat him? Let us know!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 06 Dec 2020 14:02:36 +0000</pubDate>
-        <link>/thetrashman-com-in-rocket-league</link>
-        <guid isPermaLink="true">/thetrashman-com-in-rocket-league</guid>
         
         
       </item>
