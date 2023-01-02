@@ -49,6 +49,10 @@
 <lastmod>2022-12-06T04:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>/rocket-through-the-window</loc>
+<lastmod>2023-01-02T01:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>/about/</loc>
 </url>
 <url>
@@ -68,5 +72,8 @@
 </url>
 <url>
 <loc>/page2/</loc>
+</url>
+<url>
+<loc>/page3/</loc>
 </url>
 </urlset>

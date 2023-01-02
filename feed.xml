@@ -5,9 +5,22 @@
     <description>You got trashed!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Dec 2022 21:51:01 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Dec 2022 21:51:01 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Jan 2023 01:34:36 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2023 01:34:36 +0000</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Through the Window</title>
+        <description>&lt;p&gt;That rocket through the window was pretty nice…&lt;/p&gt;
+
+&lt;p&gt;Got me&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jan 2023 01:00:00 +0000</pubDate>
+        <link>/rocket-through-the-window</link>
+        <guid isPermaLink="true">/rocket-through-the-window</guid>
+        
+        
+      </item>
     
       <item>
         <title>I ain't no smurf</title>
@@ -138,17 +151,6 @@
         <pubDate>Wed, 01 Sep 2021 14:00:00 +0000</pubDate>
         <link>/thetrashman-is-no-more</link>
         <guid isPermaLink="true">/thetrashman-is-no-more</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>TheTrashman.com Rocket League Game Play!</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dQw4w9WgXcQ&quot;&gt;The latest replay video from TheTrashman.com Rocket League&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 Dec 2020 19:00:00 +0000</pubDate>
-        <link>/thetrashman-video-replay</link>
-        <guid isPermaLink="true">/thetrashman-video-replay</guid>
         
         
       </item>
