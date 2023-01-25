@@ -7,7 +7,7 @@ date: 2023-01-25 08:00:00 -0600
 categories: 
 permalink: fortnite-tutorial
 excerpt: "Learn some"
-image: 
+image: FortniteTutorial.jpg
 featured: true
 ---
 
