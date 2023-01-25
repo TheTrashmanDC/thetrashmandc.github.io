@@ -76,4 +76,10 @@ var store = [{
         "tags": [],
         "url": "/rocket-through-the-window",
         "teaser": null
+      },{
+        "title": "AI Built Fortnite Tutorial",
+        "excerpt":"Fortnite is a popular online game that combines elements of survival, exploration, and building. To win a game of Fortnite, you will need to master a variety of skills, including building, looting, and combat. Here is a basic tutorial on how to play Fortnite and increase your chances of winning....","categories": [],
+        "tags": [],
+        "url": "/fortnite-tutorial",
+        "teaser": null
       }]
