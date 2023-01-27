@@ -5,7 +5,7 @@ description: "You got trashed!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
-google_analytics: 'UA-69145-33'
+google_analytics: ' G-9W2BGDFPY1'
 disqus: 
 mailchimp-list: 
 include: ["_pages"]
