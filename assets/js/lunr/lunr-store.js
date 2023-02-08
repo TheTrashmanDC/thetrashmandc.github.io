@@ -82,4 +82,10 @@ var store = [{
         "tags": [],
         "url": "/fortnite-tutorial",
         "teaser": null
+      },{
+        "title": "How to Improve at Rocket League",
+        "excerpt":"5 Proven Tips for Improving Your Rocket League Game Rocket League is a high-speed, high-flying game that requires a combination of skill, strategy, and teamwork. Whether you’re a seasoned player or just starting out, there are many ways to improve your skills and help your team win. Here are five...","categories": [],
+        "tags": [],
+        "url": "/rocket-league-tutorial",
+        "teaser": null
       }]
