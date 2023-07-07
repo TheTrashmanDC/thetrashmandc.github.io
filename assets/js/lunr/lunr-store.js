@@ -88,4 +88,10 @@ var store = [{
         "tags": [],
         "url": "/rocket-league-tutorial",
         "teaser": null
+      },{
+        "title": "How to rank up in Fortnite",
+        "excerpt":"Introduction: Fortnite, the wildly popular battle royale game developed by Epic Games, has taken the gaming world by storm. With millions of players worldwide, competition in Fortnite is fierce, and every player aspires to achieve higher ranks. If you find yourself struggling to climb the ranks and reach the pinnacle...","categories": [],
+        "tags": [],
+        "url": "/fortnite-rank-higher",
+        "teaser": null
       }]
