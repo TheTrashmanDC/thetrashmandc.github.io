@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "How to Improve at Rocket League"
 keywords: "rocket league, rocket, league, soccer, game"
 description: "A simple tutorial for improving your game"

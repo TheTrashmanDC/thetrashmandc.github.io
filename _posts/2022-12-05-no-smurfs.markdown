@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "I ain't no smurf"
 description: "You suck at Fortnite"
 keywords: "fortnite, sore loser"

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "TheTrashman.com crashing you in a simulation race, or real race, near you"
 date:   2021-09-23 08:00:00 -0600
 categories: 

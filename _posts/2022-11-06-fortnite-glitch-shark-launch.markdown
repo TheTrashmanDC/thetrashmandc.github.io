@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Fortnite Glitch, get launched into orbit by a shark"
 description: "Glitch"
 keywords: "fortnite, glitch, shark"

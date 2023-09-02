@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Welcome to TheTrashman.com!"
 date:   2020-11-15 23:35:36 -0600
 categories: 

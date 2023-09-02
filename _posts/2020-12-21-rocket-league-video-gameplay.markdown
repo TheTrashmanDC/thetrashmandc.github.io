@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "TheTrashman.com Rocket League Game Play!"
 date:   2020-12-21 13:00:00 -0600
 categories: 

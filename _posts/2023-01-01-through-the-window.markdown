@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Through the Window"
 keywords: "fortnite, kill"
 description: "Rocket through the window in Fortnite"

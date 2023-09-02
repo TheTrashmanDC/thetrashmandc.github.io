@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "How to rank up in Fortnite"
 keywords: "fortnite, game"
 description: "A simple tutorial for improving your game"

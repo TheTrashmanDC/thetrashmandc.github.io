@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "AI Built Fortnite Tutorial"
 keywords: "fortnite, kill, tutorial, chatgpt"
 description: "A simple Fortnite tutorial for improving your game"

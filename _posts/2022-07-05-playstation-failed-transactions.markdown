@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Playstation Failed Fraud Transactions"
 description: "Playstation Store Fraud"
 keywords: "sony, playstation"
