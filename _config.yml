@@ -11,7 +11,7 @@ google_analytics: 'G-9W2BGDFPY1' # configured for Google Analytics 4 MEASUREMENT
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
-url: 'https://www.thetrashman .com'
+url: 'https://www.thetrashman.com'
 
 templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/">Chris Hammond</a>''s JekyllExample.com'
 
