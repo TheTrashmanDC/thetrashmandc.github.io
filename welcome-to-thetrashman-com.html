@@ -1,13 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<!-- Google tag (gtag.js) -->
+		<script
+			async
+			src="https://www.googletagmanager.com/gtag/js?id=G-9W2BGDFPY1"
+		></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag("js", new Date());
+
+			gtag("config", "G-9W2BGDFPY1");
+		</script>
+
 		<meta charset="utf-8" />
 		<meta
 			name="viewport"
 			content="width=device-width, initial-scale=1, shrink-to-fit=no"
 		/>
 
-		<link rel="icon" href="/assets/images/logo.png" />
+		<link rel="icon" href="/assets/favicon.ico" />
 
 		<title>Welcome to TheTrashman.com! | TheTrashman.com</title>
 
@@ -21,6 +36,14 @@
 		<meta property="og:locale" content="en_US" />
 		<meta name="description" content="Your internet refuse service." />
 		<meta property="og:description" content="Your internet refuse service." />
+		<link
+			rel="canonical"
+			href="https://www.thetrashman.com/welcome-to-thetrashman-com"
+		/>
+		<meta
+			property="og:url"
+			content="https://www.thetrashman.com/welcome-to-thetrashman-com"
+		/>
 		<meta
 			property="og:site_name"
 			content="TheTrashman.com - Internet’s Premier Waste You in a Video Game Disposal Service"
@@ -42,21 +65,24 @@
 				"headline": "Welcome to TheTrashman.com!",
 				"mainEntityOfPage": {
 					"@type": "WebPage",
-					"@id": "/welcome-to-thetrashman-com"
+					"@id": "https://www.thetrashman.com/welcome-to-thetrashman-com"
 				},
 				"publisher": {
 					"@type": "Organization",
-					"logo": { "@type": "ImageObject", "url": "/assets/images/logo.png" }
+					"logo": {
+						"@type": "ImageObject",
+						"url": "https://www.thetrashman.com/assets/images/logo.png"
+					}
 				},
-				"url": "/welcome-to-thetrashman-com"
+				"url": "https://www.thetrashman.com/welcome-to-thetrashman-com"
 			}
 		</script>
 		<!-- End Jekyll SEO tag -->
 
 		<link
 			rel="stylesheet"
-			href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-			integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+			href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+			integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
 			crossorigin="anonymous"
 		/>
 
@@ -67,22 +93,7 @@
 		<script src="/assets/js/jquery.min.js"></script>
 	</head>
 
-	<!-- Google tag (gtag.js) -->
-	<script
-		async
-		src="https://www.googletagmanager.com/gtag/js?id= G-9W2BGDFPY1"
-	></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag("js", new Date());
-
-		gtag("config", " G-9W2BGDFPY1");
-	</script>
-
-	<body class="layout-single">
+	<body class="layout-post">
 		<!-- defer loading of font and font awesome -->
 		<noscript id="deferred-styles">
 			<link
@@ -130,12 +141,18 @@
 						</li>
 
 						<li class="nav-item">
-							<a class="nav-link" href="/videos">Videos</a>
+							<a class="nav-link" href="/about">About</a>
 						</li>
 
 						<li class="nav-item">
-							<a class="nav-link" href="/about">About</a>
+							<a
+								class="nav-link"
+								href="https://github.com/chrishammond/jekyllexample.github.io"
+								target="_blank"
+								>GitHub</a
+							>
 						</li>
+
 						<script src="/assets/js/lunr.js"></script>
 
 						<style>
@@ -191,38 +208,90 @@
 			<div class="container">
 				<!-- Site Title
 ================================================== -->
-				<div class="mainheading">
-					<h1 class="sitetitle">TheTrashman.com</h1>
-					<p class="lead">You got trashed!</p>
-				</div>
+				<!--
+<div class="mainheading">
+    <h1 class="sitetitle">TheTrashman.com</h1>
+    <p class="lead">
+        You got trashed!
+    </p>
+</div>
+-->
 
 				<!-- Content
 ================================================== -->
 				<div class="main-content">
-					<div id="main" role="main">
-						<article
-							class="page"
-							itemscope
-							itemtype="https://schema.org/CreativeWork"
-						>
-							<meta itemprop="headline" content="Welcome to TheTrashman.com!" />
-							<meta
-								itemprop="description"
-								content="Your internet refuse service."
-							/>
-							<meta
-								itemprop="datePublished"
-								content="2020-11-16T05:35:36+00:00"
-							/>
+					<!-- Begin Article
+================================================== -->
+					<div class="container">
+						<div class="row">
+							<!-- Post Share -->
+							<div class="col-md-2 pl-0">
+								<div class="share sticky-top sticky-top-offset">
+									<p>Share</p>
+									<ul>
+										<li class="ml-1 mr-1">
+											<a
+												target="_blank"
+												href="https://twitter.com/intent/tweet?text=Welcome to TheTrashman.com!&url=https://www.thetrashman.com/welcome-to-thetrashman-com"
+												onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"
+											>
+												<i class="fab fa-twitter"></i>
+											</a>
+										</li>
 
-							<div class="page__inner-wrap">
-								<header>
-									<h1 id="page-title" class="page__title" itemprop="headline">
-										Welcome to TheTrashman.com!
-									</h1>
-								</header>
+										<li class="ml-1 mr-1">
+											<a
+												target="_blank"
+												href="https://facebook.com/sharer.php?u=https://www.thetrashman.com/welcome-to-thetrashman-com"
+												onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;"
+											>
+												<i class="fab fa-facebook-f"></i>
+											</a>
+										</li>
 
-								<section class="page__content" itemprop="text">
+										<li class="ml-1 mr-1">
+											<a
+												target="_blank"
+												href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.thetrashman.com/welcome-to-thetrashman-com"
+												onclick="window.open(this.href, 'width=550,height=435');return false;"
+											>
+												<i class="fab fa-linkedin-in"></i>
+											</a>
+										</li>
+									</ul>
+
+									<div class="sep"></div>
+									<ul>
+										<li>
+											<a class="small smoothscroll" href="#disqus_thread"></a>
+										</li>
+									</ul>
+								</div>
+							</div>
+
+							<!-- Post -->
+
+							<div class="col-md-9 flex-first flex-md-unordered">
+								<div class="mainheading">
+									<!-- Author Box -->
+
+									<!-- Post Title -->
+									<h1 class="posttitle">Welcome to TheTrashman.com!</h1>
+								</div>
+
+								<!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+
+								<!-- End Adsense -->
+
+								<!-- Post Featured Image -->
+
+								<!-- End Featured Image -->
+
+								<!-- Post Content -->
+								<div class="article-post">
+									<!-- Toc if any -->
+
+									<!-- End Toc -->
 									<p>
 										You’ve found a great domain that is for sale. If you have a
 										trash or refuse business, or any other type of business this
@@ -323,37 +392,100 @@ Trash Bin Rental Services
 </pre></td></tr></tbody></table></code></pre>
 										</div>
 									</div>
-								</section>
+								</div>
 
-								<footer class="page__meta">
-									<p class="page__date">
-										<strong
-											><i
-												class="fas fa-fw fa-calendar-alt"
-												aria-hidden="true"
-											></i>
-											Updated:</strong
+								<!-- Rating -->
+
+								<!-- Post Date -->
+								<p>
+									<small>
+										<span class="post-date"
+											><time class="post-date" datetime="2020-11-16"
+												>16 Nov 2020</time
+											></span
 										>
-										<time datetime="2020-11-16T05:35:36+00:00"
-											>November 16, 2020</time
-										>
-									</p>
-								</footer>
+									</small>
+								</p>
 
-								<nav class="pagination">
-									<a href="#" class="pagination--pager disabled">Previous</a>
+								<!-- Post Categories -->
+								<div class="after-post-cats">
+									<ul class="tags mb-4"></ul>
+								</div>
+								<!-- End Categories -->
 
+								<!-- Post Tags -->
+								<div class="after-post-tags">
+									<ul class="tags"></ul>
+								</div>
+								<!-- End Tags -->
+
+								<!-- Prev/Next -->
+								<div
+									class="row PageNavigation d-flex justify-content-between font-weight-bold"
+								>
 									<a
+										class="next d-block col-md-6 text-lg-right"
 										href="/thetrashman-com-in-rocket-league"
-										class="pagination--pager"
-										title="TheTrashman.com in Rocket League!
-"
-										>Next</a
-									>
-								</nav>
+										>TheTrashman.com in Rocket League! &raquo;
+									</a>
+
+									<div class="clearfix"></div>
+								</div>
+								<!-- End Categories -->
 							</div>
-						</article>
+							<!-- End Post -->
+						</div>
 					</div>
+					<!-- End Article
+================================================== -->
+
+					<!-- Begin Comments
+================================================== -->
+
+					<div class="container">
+						<div id="comments" class="row justify-content-center mb-5">
+							<div class="col-md-8">
+								<section class="disqus">
+									<div id="disqus_thread"></div>
+									<script type="text/javascript">
+										var disqus_shortname = "";
+										var disqus_developer = 0;
+										(function () {
+											var dsq = document.createElement("script");
+											dsq.type = "text/javascript";
+											dsq.async = true;
+											dsq.src =
+												window.location.protocol +
+												"//" +
+												disqus_shortname +
+												".disqus.com/embed.js";
+											(
+												document.getElementsByTagName("head")[0] ||
+												document.getElementsByTagName("body")[0]
+											).appendChild(dsq);
+										})();
+									</script>
+									<noscript
+										>Please enable JavaScript to view the
+										<a href="http://disqus.com/?ref_noscript"
+											>comments powered by Disqus.</a
+										></noscript
+									>
+									<a href="http://disqus.com" class="dsq-brlink"
+										>comments powered by
+										<span class="logo-disqus">Disqus</span></a
+									>
+								</section>
+							</div>
+						</div>
+					</div>
+
+					<!--End Comments
+================================================== -->
+
+					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
 				</div>
 			</div>
 
@@ -366,7 +498,7 @@ Trash Bin Rental Services
 							class="d-md-flex align-items-center justify-content-center h-100"
 						>
 							<h2 class="d-md-block align-self-center py-1 font-weight-light">
-								Explore The Abyss <span class="d-none d-md-inline">→</span>
+								Explore <span class="d-none d-md-inline">→</span>
 							</h2>
 						</div>
 					</div>
@@ -383,7 +515,10 @@ Trash Bin Rental Services
 							Copyright © 2023 TheTrashman.com
 						</div>
 						<div class="col-md-6 col-sm-6 text-center text-lg-right">
-							Site by Trashy
+							Forked from
+							<a target="_blank" href="https://www.chrishammond.com/"
+								>Chris Hammond</a
+							>'s JekyllExample.com
 						</div>
 					</div>
 				</div>
@@ -403,13 +538,20 @@ Trash Bin Rental Services
 		></script>
 
 		<script
-			src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-			integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+			src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+			integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
 			crossorigin="anonymous"
 		></script>
 
 		<script src="/assets/js/mediumish.js"></script>
 
 		<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+		<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
 	</body>
 </html>

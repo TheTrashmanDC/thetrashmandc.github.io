@@ -1,13 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<!-- Google tag (gtag.js) -->
+		<script
+			async
+			src="https://www.googletagmanager.com/gtag/js?id=G-9W2BGDFPY1"
+		></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag("js", new Date());
+
+			gtag("config", "G-9W2BGDFPY1");
+		</script>
+
 		<meta charset="utf-8" />
 		<meta
 			name="viewport"
 			content="width=device-width, initial-scale=1, shrink-to-fit=no"
 		/>
 
-		<link rel="icon" href="/assets/images/logo.png" />
+		<link rel="icon" href="/assets/favicon.ico" />
 
 		<title>TheTrashman.com Rocket League Game Play! | TheTrashman.com</title>
 
@@ -26,6 +41,14 @@
 		<meta
 			property="og:description"
 			content="Check out our latest gameplay footage."
+		/>
+		<link
+			rel="canonical"
+			href="https://www.thetrashman.com/thetrashman-video-replay"
+		/>
+		<meta
+			property="og:url"
+			content="https://www.thetrashman.com/thetrashman-video-replay"
 		/>
 		<meta
 			property="og:site_name"
@@ -51,21 +74,24 @@
 				"headline": "TheTrashman.com Rocket League Game Play!",
 				"mainEntityOfPage": {
 					"@type": "WebPage",
-					"@id": "/thetrashman-video-replay"
+					"@id": "https://www.thetrashman.com/thetrashman-video-replay"
 				},
 				"publisher": {
 					"@type": "Organization",
-					"logo": { "@type": "ImageObject", "url": "/assets/images/logo.png" }
+					"logo": {
+						"@type": "ImageObject",
+						"url": "https://www.thetrashman.com/assets/images/logo.png"
+					}
 				},
-				"url": "/thetrashman-video-replay"
+				"url": "https://www.thetrashman.com/thetrashman-video-replay"
 			}
 		</script>
 		<!-- End Jekyll SEO tag -->
 
 		<link
 			rel="stylesheet"
-			href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-			integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+			href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+			integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
 			crossorigin="anonymous"
 		/>
 
@@ -76,22 +102,7 @@
 		<script src="/assets/js/jquery.min.js"></script>
 	</head>
 
-	<!-- Google tag (gtag.js) -->
-	<script
-		async
-		src="https://www.googletagmanager.com/gtag/js?id= G-9W2BGDFPY1"
-	></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag("js", new Date());
-
-		gtag("config", " G-9W2BGDFPY1");
-	</script>
-
-	<body class="layout-single">
+	<body class="layout-post">
 		<!-- defer loading of font and font awesome -->
 		<noscript id="deferred-styles">
 			<link
@@ -139,12 +150,18 @@
 						</li>
 
 						<li class="nav-item">
-							<a class="nav-link" href="/videos">Videos</a>
+							<a class="nav-link" href="/about">About</a>
 						</li>
 
 						<li class="nav-item">
-							<a class="nav-link" href="/about">About</a>
+							<a
+								class="nav-link"
+								href="https://github.com/chrishammond/jekyllexample.github.io"
+								target="_blank"
+								>GitHub</a
+							>
 						</li>
+
 						<script src="/assets/js/lunr.js"></script>
 
 						<style>
@@ -200,84 +217,200 @@
 			<div class="container">
 				<!-- Site Title
 ================================================== -->
-				<div class="mainheading">
-					<h1 class="sitetitle">TheTrashman.com</h1>
-					<p class="lead">You got trashed!</p>
-				</div>
+				<!--
+<div class="mainheading">
+    <h1 class="sitetitle">TheTrashman.com</h1>
+    <p class="lead">
+        You got trashed!
+    </p>
+</div>
+-->
 
 				<!-- Content
 ================================================== -->
 				<div class="main-content">
-					<div id="main" role="main">
-						<article
-							class="page"
-							itemscope
-							itemtype="https://schema.org/CreativeWork"
-						>
-							<meta
-								itemprop="headline"
-								content="TheTrashman.com Rocket League Game Play!"
-							/>
-							<meta
-								itemprop="description"
-								content="Check out our latest gameplay footage."
-							/>
-							<meta
-								itemprop="datePublished"
-								content="2020-12-21T19:00:00+00:00"
-							/>
+					<!-- Begin Article
+================================================== -->
+					<div class="container">
+						<div class="row">
+							<!-- Post Share -->
+							<div class="col-md-2 pl-0">
+								<div class="share sticky-top sticky-top-offset">
+									<p>Share</p>
+									<ul>
+										<li class="ml-1 mr-1">
+											<a
+												target="_blank"
+												href="https://twitter.com/intent/tweet?text=TheTrashman.com Rocket League Game Play!&url=https://www.thetrashman.com/thetrashman-video-replay"
+												onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"
+											>
+												<i class="fab fa-twitter"></i>
+											</a>
+										</li>
 
-							<div class="page__inner-wrap">
-								<header>
-									<h1 id="page-title" class="page__title" itemprop="headline">
+										<li class="ml-1 mr-1">
+											<a
+												target="_blank"
+												href="https://facebook.com/sharer.php?u=https://www.thetrashman.com/thetrashman-video-replay"
+												onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;"
+											>
+												<i class="fab fa-facebook-f"></i>
+											</a>
+										</li>
+
+										<li class="ml-1 mr-1">
+											<a
+												target="_blank"
+												href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.thetrashman.com/thetrashman-video-replay"
+												onclick="window.open(this.href, 'width=550,height=435');return false;"
+											>
+												<i class="fab fa-linkedin-in"></i>
+											</a>
+										</li>
+									</ul>
+
+									<div class="sep"></div>
+									<ul>
+										<li>
+											<a class="small smoothscroll" href="#disqus_thread"></a>
+										</li>
+									</ul>
+								</div>
+							</div>
+
+							<!-- Post -->
+
+							<div class="col-md-9 flex-first flex-md-unordered">
+								<div class="mainheading">
+									<!-- Author Box -->
+
+									<!-- Post Title -->
+									<h1 class="posttitle">
 										TheTrashman.com Rocket League Game Play!
 									</h1>
-								</header>
+								</div>
 
-								<section class="page__content" itemprop="text">
+								<!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+
+								<!-- End Adsense -->
+
+								<!-- Post Featured Image -->
+
+								<!-- End Featured Image -->
+
+								<!-- Post Content -->
+								<div class="article-post">
+									<!-- Toc if any -->
+
+									<!-- End Toc -->
 									<p>
 										<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 											>The latest replay video from TheTrashman.com Rocket
 											League</a
 										>
 									</p>
-								</section>
+								</div>
 
-								<footer class="page__meta">
-									<p class="page__date">
-										<strong
-											><i
-												class="fas fa-fw fa-calendar-alt"
-												aria-hidden="true"
-											></i>
-											Updated:</strong
-										>
-										<time datetime="2020-12-21T19:00:00+00:00"
-											>December 21, 2020</time
-										>
-									</p>
-								</footer>
+								<!-- Rating -->
 
-								<nav class="pagination">
+								<!-- Post Date -->
+								<p>
+									<small>
+										<span class="post-date"
+											><time class="post-date" datetime="2020-12-21"
+												>21 Dec 2020</time
+											></span
+										>
+									</small>
+								</p>
+
+								<!-- Post Categories -->
+								<div class="after-post-cats">
+									<ul class="tags mb-4"></ul>
+								</div>
+								<!-- End Categories -->
+
+								<!-- Post Tags -->
+								<div class="after-post-tags">
+									<ul class="tags"></ul>
+								</div>
+								<!-- End Tags -->
+
+								<!-- Prev/Next -->
+								<div
+									class="row PageNavigation d-flex justify-content-between font-weight-bold"
+								>
 									<a
+										class="prev d-block col-md-6"
 										href="/thetrashman-com-in-rocket-league"
-										class="pagination--pager"
-										title="TheTrashman.com in Rocket League!
-"
-										>Previous</a
+									>
+										&laquo; TheTrashman.com in Rocket League!</a
 									>
 
 									<a
+										class="next d-block col-md-6 text-lg-right"
 										href="/thetrashman-is-no-more"
-										class="pagination--pager"
-										title="TheTrashman.com is no more, long live TheTrashman.com
-"
-										>Next</a
-									>
-								</nav>
+										>TheTrashman.com is no more, long live TheTrashman.com
+										&raquo;
+									</a>
+
+									<div class="clearfix"></div>
+								</div>
+								<!-- End Categories -->
 							</div>
-						</article>
+							<!-- End Post -->
+						</div>
 					</div>
+					<!-- End Article
+================================================== -->
+
+					<!-- Begin Comments
+================================================== -->
+
+					<div class="container">
+						<div id="comments" class="row justify-content-center mb-5">
+							<div class="col-md-8">
+								<section class="disqus">
+									<div id="disqus_thread"></div>
+									<script type="text/javascript">
+										var disqus_shortname = "";
+										var disqus_developer = 0;
+										(function () {
+											var dsq = document.createElement("script");
+											dsq.type = "text/javascript";
+											dsq.async = true;
+											dsq.src =
+												window.location.protocol +
+												"//" +
+												disqus_shortname +
+												".disqus.com/embed.js";
+											(
+												document.getElementsByTagName("head")[0] ||
+												document.getElementsByTagName("body")[0]
+											).appendChild(dsq);
+										})();
+									</script>
+									<noscript
+										>Please enable JavaScript to view the
+										<a href="http://disqus.com/?ref_noscript"
+											>comments powered by Disqus.</a
+										></noscript
+									>
+									<a href="http://disqus.com" class="dsq-brlink"
+										>comments powered by
+										<span class="logo-disqus">Disqus</span></a
+									>
+								</section>
+							</div>
+						</div>
+					</div>
+
+					<!--End Comments
+================================================== -->
+
+					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
 				</div>
 			</div>
 
@@ -290,7 +423,7 @@
 							class="d-md-flex align-items-center justify-content-center h-100"
 						>
 							<h2 class="d-md-block align-self-center py-1 font-weight-light">
-								Explore The Abyss <span class="d-none d-md-inline">→</span>
+								Explore <span class="d-none d-md-inline">→</span>
 							</h2>
 						</div>
 					</div>
@@ -307,7 +440,10 @@
 							Copyright © 2023 TheTrashman.com
 						</div>
 						<div class="col-md-6 col-sm-6 text-center text-lg-right">
-							Site by Trashy
+							Forked from
+							<a target="_blank" href="https://www.chrishammond.com/"
+								>Chris Hammond</a
+							>'s JekyllExample.com
 						</div>
 					</div>
 				</div>
@@ -327,13 +463,20 @@
 		></script>
 
 		<script
-			src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-			integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+			src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+			integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
 			crossorigin="anonymous"
 		></script>
 
 		<script src="/assets/js/mediumish.js"></script>
 
 		<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+		<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
 	</body>
 </html>
