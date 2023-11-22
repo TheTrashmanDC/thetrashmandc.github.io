@@ -7,7 +7,7 @@ date: 2023-07-07 00:00:00 -0600
 categories: 
 permalink: fortnite-rank-higher
 excerpt: "Learn some"
-image: 
+image: Fortnite-1.png
 featured: true
 ---
 

@@ -7,7 +7,7 @@ date: 2023-02-08 00:00:00 -0600
 categories: 
 permalink: rocket-league-tutorial
 excerpt: "Learn some"
-image: 
+image: RocketLeague-1.png
 featured: true
 ---
 
