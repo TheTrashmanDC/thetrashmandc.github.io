@@ -95,7 +95,7 @@ var store = [{
         "url": "https://www.thetrashman.com/fortnite-rank-higher",
         "teaser": null
       },{
-        "title": "TOTY 2023 - Teamate Of The Year, Fortnite Squads",
+        "title": "TOTY 2023 - Teammate Of The Year, Fortnite Squads",
         "excerpt":"Accepting the TOTY Award 2023: A Milestone Achievement I am incredibly honored and excited to accept the TOTY (Teammate Of The Year) Award for 2023. As TheTrashmanDC (sadly, Epic won’t allow .com in usernames!), I’ve journeyed through countless Fortnite battles, always striving to be the best teammate possible (mostly). A...","categories": [],
         "tags": [],
         "url": "https://www.thetrashman.com/toty-award-for-2023",
