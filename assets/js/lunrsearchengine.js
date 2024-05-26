@@ -93,7 +93,7 @@ var documents = [{
     "id": 18,
     "url": "https://www.thetrashman.com/fortnite-updates",
     "title": "Fortnite Updates",
-    "body": "2022/03/09 - What’s in the latest release of Fortnite? Guns in Chickens…. . "
+    "body": "2022/03/09 - What’s in the latest release of Fortnite? Guns and Chickens…. . "
     }, {
     "id": 19,
     "url": "https://www.thetrashman.com/fortnite-milestone-addiction",
