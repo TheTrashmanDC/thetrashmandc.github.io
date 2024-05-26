@@ -90,13 +90,13 @@ var store = [{
         "teaser": null
       },{
         "title": "How to rank up in Fortnite",
-        "excerpt":"Introduction: Fortnite, the wildly popular battle royale game developed by Epic Games, has taken the gaming world by storm. With millions of players worldwide, competition in Fortnite is fierce, and every player aspires to achieve higher ranks. If you find yourself struggling to climb the ranks and reach the pinnacle...","categories": ["games","fortnite","squad","toty"],
+        "excerpt":"Introduction: Fortnite, the wildly popular battle royale game developed by Epic Games, has taken the gaming world by storm. With millions of players worldwide, competition in Fortnite is fierce, and every player aspires to achieve higher ranks. If you find yourself struggling to climb the ranks and reach the pinnacle...","categories": ["games","fortnite"],
         "tags": [],
         "url": "https://www.thetrashman.com/fortnite-rank-higher",
         "teaser": null
       },{
         "title": "TOTY 2023 - Teammate Of The Year, Fortnite Squads",
-        "excerpt":"Accepting the TOTY Award 2023: A Milestone Achievement I am incredibly honored and excited to accept the TOTY (Teammate Of The Year) Award for 2023. As TheTrashmanDC (sadly, Epic won’t allow .com in usernames!), I’ve journeyed through countless Fortnite battles, always striving to be the best teammate possible (mostly). A...","categories": [],
+        "excerpt":"Accepting the TOTY Award 2023: A Milestone Achievement I am incredibly honored and excited to accept the TOTY (Teammate Of The Year) Award for 2023. As TheTrashmanDC (sadly, Epic won’t allow .com in usernames!), I’ve journeyed through countless Fortnite battles, always striving to be the best teammate possible (mostly). A...","categories": ["games","fortnite","squad","toty"],
         "tags": [],
         "url": "https://www.thetrashman.com/toty-award-for-2023",
         "teaser": null
