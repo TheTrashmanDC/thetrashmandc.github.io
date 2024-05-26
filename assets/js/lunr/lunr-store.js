@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "TheTrashman.com Rocket League Game Play!",
-        "excerpt":"The latest replay video from TheTrashman.com Rocket League  ","categories": [],
+        "excerpt":"The latest replay video from TheTrashman.com Rocket League  ","categories": ["games","rocket league"],
         "tags": [],
         "url": "https://www.thetrashman.com/thetrashman-video-replay",
         "teaser": null
