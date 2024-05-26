@@ -7,6 +7,7 @@ permalink: fortnite-klombo-quest
 excerpt: "10k in Reward"
 image: 
 featured: true
+categories: [ games, fortnite ]
 ---
 
 One quest you won't find in your quest log in Fortnite is a Secret Klombo question. 

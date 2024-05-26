@@ -9,6 +9,7 @@ permalink: fortnite-tutorial
 excerpt: "Learn some"
 image: FortniteTutorial.jpg
 featured: true
+categories: [ games, fortnite ]
 ---
 
 Fortnite is a popular online game that combines elements of survival, exploration, and building. To win a game of Fortnite, you will need to master a variety of skills, including building, looting, and combat. Here is a basic tutorial on how to play Fortnite and increase your chances of winning.

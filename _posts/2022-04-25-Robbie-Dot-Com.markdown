@@ -7,6 +7,7 @@ permalink: robbie-dot-com
 excerpt: "Death"
 image: 
 featured: true
+categories: [ games, fortnite ]
 ---
 
 Robbie.com killed TheTrashman.com

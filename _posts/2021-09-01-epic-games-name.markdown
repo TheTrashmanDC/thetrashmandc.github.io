@@ -6,6 +6,7 @@ categories:
 permalink: thetrashman-is-no-more
 excerpt: "Epic took our name"
 featured: false
+categories: [ games, epic ]
 ---
 
 Last night while playing Fortnite I received an email from Epic announcing that they had initiated a username change for my account, either because I had requested it, or I was found in violation of their username policies.

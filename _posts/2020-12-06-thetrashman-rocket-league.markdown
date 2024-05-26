@@ -5,7 +5,7 @@ date:   2020-12-06 08:02:36 -0600
 categories: 
 permalink: thetrashman-com-in-rocket-league
 excerpt: "Do you soccer?"
-
+categories: [ games, rocket league ]
 ---
 
 TheTrashman.com is a proud sponsor of Chris Hammond's eSports gaming efforts. You can currently find him playing in competitive Rocket League Matches.

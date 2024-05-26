@@ -9,6 +9,7 @@ permalink: playstation-fraud-transactions
 excerpt: "Failed purchases"
 image: playstation.JPG
 featured: true
+categories: [ games, playstation ]
 ---
 
 Every since TheTrashman got a PS5, he has struggled. Struggled to give Playstation his money. You see, TheTrashman wants to add money to his wallet, so little trashy can purchase Fortnite skins, but Playstation makes it nearly impossible.

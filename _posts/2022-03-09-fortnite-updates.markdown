@@ -7,8 +7,9 @@ permalink: fortnite-updates
 excerpt: "What's in the latest release?"
 image: 
 featured: false
+categories: [ games, fortnite ]
 ---
 
 What's in the latest release of Fortnite?
 
-Guns in Chickens.....
+Guns and Chickens.....

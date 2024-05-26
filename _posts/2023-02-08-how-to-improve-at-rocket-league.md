@@ -9,6 +9,7 @@ permalink: rocket-league-tutorial
 excerpt: "Learn some"
 image: RocketLeague-1.png
 featured: true
+categories: [ games, fortnite ]
 ---
 
 # 5 Proven Tips for Improving Your Rocket League Game

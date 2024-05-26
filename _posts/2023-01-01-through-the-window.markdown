@@ -9,6 +9,7 @@ permalink: rocket-through-the-window
 excerpt: "Got me"
 image: 
 featured: true
+categories: [ games, fortnite ]
 ---
 
 That rocket through the window was pretty nice...

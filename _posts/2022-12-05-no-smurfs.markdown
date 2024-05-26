@@ -9,6 +9,7 @@ permalink: rocket-league-smurf
 excerpt: "Nope, not me"
 image: NoSmurfs-1.png
 featured: true
+categories: [ games, fortnite ]
 ---
 
 Screw you Kevin, I ain't no smurf. You're just that bad. 

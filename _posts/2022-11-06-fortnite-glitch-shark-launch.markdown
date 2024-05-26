@@ -10,6 +10,7 @@ permalink: fortnite-glitch-shark-launch
 excerpt: "I believe I can fly"
 image: flight.jpg
 featured: true
+categories: [ games, fortnite ]
 ---
 
 While playing with the buddies tonight, TheTrashman got booted from the middle of the map all the way out to the edge, ultimately dying in the storm, due to a glitch.
