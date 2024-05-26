@@ -4,7 +4,7 @@ title:  "Playstation Failed Fraud Transactions"
 description: "Playstation Store Fraud"
 keywords: "sony, playstation"
 date:   2022-07-05 09:00:00 -0600
-categories: 
+categories: [ playstation, sony ]
 permalink: playstation-fraud-transactions
 excerpt: "Failed purchases"
 image: playstation.JPG

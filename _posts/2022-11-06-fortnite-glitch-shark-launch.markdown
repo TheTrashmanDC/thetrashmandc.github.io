@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Fortnite Glitch, get launched into orbit by a shark"
-description: "Glitch"
+description: "Glitch in Fortnite with a shark launches a car/driver into orbit for a death in the storm."
 keywords: "fortnite, glitch, shark"
 date:   2022-11-06 22:00:00 -0600
-
-categories: 
+categories: [ fortnite, bug ]
 permalink: fortnite-glitch-shark-launch
 excerpt: "I believe I can fly"
 image: flight.jpg

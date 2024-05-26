@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Improve at Rocket League"
 keywords: "rocket league, rocket, league, soccer, game"
-description: "A simple tutorial for improving your game"
+description: "A simple tutorial for improving your game in Rocket League. You need to improve!"
 date: 2023-02-08 00:00:00 -0600
 categories: 
 permalink: rocket-league-tutorial
