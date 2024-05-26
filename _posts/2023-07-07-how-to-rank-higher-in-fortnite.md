@@ -9,7 +9,7 @@ permalink: fortnite-rank-higher
 excerpt: "Learn some"
 image: Fortnite-1.png
 featured: true
-categories: [ games, fortnite, squad, toty ]
+categories: [ games, fortnite ]
 ---
 
 ## Introduction:
