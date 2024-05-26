@@ -1,8 +1,8 @@
 # Site Settings
 # You can change the settings below in order to customize your website.
 name: "TheTrashman.com"
-title: "TheTrashman.com - Internet's Premier Waste You in a Video Game Disposal Service"
-description: "You got trashed!"
+title: "TheTrashman.com"
+description: "You got trashed by TheTrashman.com!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
