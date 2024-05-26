@@ -63,7 +63,7 @@ var documents = [{
     "id": 12,
     "url": "https://www.thetrashman.com/rocket-through-the-window",
     "title": "Through the Window",
-    "body": "2023/01/02 - That rocket through the window was pretty nice… Got me "
+    "body": "2023/01/02 - That rocket through the window was pretty nice… Got me That was a hell of a shot, I hpoe you are proud. "
     }, {
     "id": 13,
     "url": "https://www.thetrashman.com/rocket-league-smurf",

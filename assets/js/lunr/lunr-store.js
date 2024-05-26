@@ -72,7 +72,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Through the Window",
-        "excerpt":"That rocket through the window was pretty nice…   Got me  ","categories": ["games","fortnite"],
+        "excerpt":"That rocket through the window was pretty nice…   Got me   That was a hell of a shot, I hpoe you are proud.  ","categories": ["games","fortnite"],
         "tags": [],
         "url": "https://www.thetrashman.com/rocket-through-the-window",
         "teaser": null
