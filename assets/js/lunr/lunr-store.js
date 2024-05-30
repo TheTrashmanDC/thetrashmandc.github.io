@@ -54,13 +54,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Playstation Failed Fraud Transactions",
-        "excerpt":"Every since TheTrashman got a PS5, he has struggled. Struggled to give Playstation his money. You see, TheTrashman wants to add money to his wallet, so little trashy can purchase Fortnite skins, but Playstation makes it nearly impossible. TM has reached out to Playstation multiple times to try to get...","categories": ["games","playstation"],
+        "excerpt":"Every since TheTrashman got a PS5, he has struggled. Struggled to give Playstation his money. You see, TheTrashman wants to add money to his wallet, so little trashy can purchase Fortnite skins, but Playstation makes it nearly impossible. TM has reached out to Playstation multiple times to try to get...","categories": ["games","playstation","sony"],
         "tags": [],
         "url": "https://www.thetrashman.com/playstation-fraud-transactions",
         "teaser": null
       },{
         "title": "Fortnite Glitch, get launched into orbit by a shark",
-        "excerpt":"While playing with the buddies tonight, TheTrashman got booted from the middle of the map all the way out to the edge, ultimately dying in the storm, due to a glitch. Apparently sharks have the ability to launch you into orbit when grabbing on to a vehicle… View this post...","categories": ["games","fortnite"],
+        "excerpt":"While playing with the buddies tonight, TheTrashman got booted from the middle of the map all the way out to the edge, ultimately dying in the storm, due to a glitch. Apparently sharks have the ability to launch you into orbit when grabbing on to a vehicle… View this post...","categories": ["games","fortnite","bug"],
         "tags": [],
         "url": "https://www.thetrashman.com/fortnite-glitch-shark-launch",
         "teaser": null
