@@ -2,7 +2,6 @@
 layout: post
 title:  "TheTrashman.com is no more, long live TheTrashman.com"
 date:   2021-09-01 08:00:00 -0600
-categories: 
 permalink: thetrashman-is-no-more
 excerpt: "Epic took our name"
 featured: false

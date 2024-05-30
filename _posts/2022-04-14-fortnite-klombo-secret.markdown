@@ -2,7 +2,6 @@
 layout: post
 title:  "FORTNITE SECRET KLOMBO QUEST"
 date:   2022-04-14 23:00:00 -0600
-categories: 
 permalink: fortnite-klombo-quest
 excerpt: "10k in Reward"
 image: 

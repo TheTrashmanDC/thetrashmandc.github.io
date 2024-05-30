@@ -4,7 +4,6 @@ title:  "How to rank up in Fortnite"
 keywords: "fortnite, game"
 description: "A simple tutorial for improving your fortnite game, see how AI thinks you can improve!"
 date: 2023-07-07 00:00:00 -0600
-categories: 
 permalink: fortnite-rank-higher
 excerpt: "Learn some"
 image: Fortnite-1.png

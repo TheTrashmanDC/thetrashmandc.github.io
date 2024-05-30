@@ -4,7 +4,6 @@ title:  "AI Built Fortnite Tutorial"
 keywords: "fortnite, kill, tutorial, chatgpt"
 description: "A simple Fortnite tutorial for improving your game in Fortnite through the use of AI!"
 date: 2023-01-25 08:00:00 -0600
-categories: 
 permalink: fortnite-tutorial
 excerpt: "Learn some"
 image: FortniteTutorial.jpg

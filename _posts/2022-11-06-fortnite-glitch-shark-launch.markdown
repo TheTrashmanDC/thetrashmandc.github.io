@@ -4,12 +4,11 @@ title:  "Fortnite Glitch, get launched into orbit by a shark"
 description: "Glitch in Fortnite with a shark launches a car/driver into orbit for a death in the storm."
 keywords: "fortnite, glitch, shark"
 date:   2022-11-06 22:00:00 -0600
-categories: [ fortnite, bug ]
 permalink: fortnite-glitch-shark-launch
 excerpt: "I believe I can fly"
 image: flight.jpg
 featured: true
-categories: [ games, fortnite ]
+categories: [ games, fortnite, bug  ]
 ---
 
 While playing with the buddies tonight, TheTrashman got booted from the middle of the map all the way out to the edge, ultimately dying in the storm, due to a glitch.

@@ -4,12 +4,11 @@ title:  "Playstation Failed Fraud Transactions"
 description: "Playstation Store Fraud"
 keywords: "sony, playstation"
 date:   2022-07-05 09:00:00 -0600
-categories: [ playstation, sony ]
 permalink: playstation-fraud-transactions
 excerpt: "Failed purchases"
 image: playstation.JPG
 featured: true
-categories: [ games, playstation ]
+categories: [ games, playstation, sony  ]
 ---
 
 Every since TheTrashman got a PS5, he has struggled. Struggled to give Playstation his money. You see, TheTrashman wants to add money to his wallet, so little trashy can purchase Fortnite skins, but Playstation makes it nearly impossible.
