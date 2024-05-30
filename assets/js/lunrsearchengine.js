@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "https://www.thetrashman.com/redirects.json",
     "title": "",
-    "body": "{“/About”:”https://www. thetrashman. com/about”,”/tags”:”https://www. thetrashman. com/category”,”/tags/”:”https://www. thetrashman. com/category”} "
+    "body": "{“/About”:”https://www. thetrashman. com/about”,”/tags”:”https://www. thetrashman. com/category”,”/tags/”:”https://www. thetrashman. com/category”,”/category/”:”https://www. thetrashman. com/category”} "
     }, {
     "id": 5,
     "url": "https://www.thetrashman.com/robots.txt",
